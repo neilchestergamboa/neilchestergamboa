@@ -65,7 +65,7 @@ Demo/Visualization Link : https://public.tableau.com/app/profile/neil.chester.ga
 
 - **Email 📧**: neilchestergamboa@gmail.com
 - **LinkedIn 👨‍⚕️**: https://www.linkedin.com/in/neil-chester-gamboa-829931261/
-- **Facebook 👍**: facebook.com/7ckingmad
+- **Facebook 👍**: https://www.facebook.com/7ckingMad
 
 Feel free to reach out to me through any of the above channels if you have any questions, collaboration opportunities, or just want to connect.
 
